@@ -1,0 +1,31 @@
+_repo: LogicDeductive-and-Inductive_18440
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Read, Carveth
+    alias: Read, Carveath
+    birthdate: 1848
+    deathdate: 1931
+    gutenberg_agent_id: '8030'
+    url: http://www.gutenberg.org/2009/agents/8030
+    wikipedia: http://en.wikipedia.org/wiki/Carveth_Read
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- Philosophy
+gutenberg_issued: '2006-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BC'
+- !lcsh 'Logic'
+title: 'Logic: Deductive and Inductive'
+url: http://www.gutenberg.org/ebooks/18440
