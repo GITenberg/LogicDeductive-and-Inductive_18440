@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8030
     wikipedia: http://en.wikipedia.org/wiki/Carveth_Read
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18440#LogicDeductive-and-Inductive
 gutenberg_bookshelf:
 - Mathematics
 - Philosophy
